@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fiery-rarity-419316",
+  "private_key_id": "4e44ff24479cc37bef5f820fe73d85873b077de4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3hhWOq/V5DphX\n2AOfQOK0bLTiCnOed8v3ZWy0nCjlJR21wrjAOzSw57ag1raDLFduiyCPxZzM3U29\nvjc82B3xmolAdAU9JZSISpfjsuGFW/MLJXATLG/Ng6p3epII1KI3UChVt/wvihxg\nTDcenZrBr4X0MaQW6NB+hO4I7+vzrLTzW1xHrv2hFPfQf8ndW3k5uMCaHEgKRkcT\noTJLfdbU4lpHKV4bP/AaFtpzDAg94LU107wKVncXptOUSdG8Kxxm4vJU1J/R0maS\nTjzEpDziFLev3mJGiodV3okSNmofwhJbPPHbMNvWyZA3Sss30Fk3YIBm5pg2pacn\njF8Kpz0DAgMBAAECggEAOO7cwyzvcwWnFyFJRl9PtR9AIhuR8KhDW1VYmtMTELsp\n81gcDm6Pkw3fJxhU+G6KFR4OFOv+D8PbuTBIXJTC/U+uopMbiPOel4Vkh1vYAJIc\n3OlZUmlnqb7d5EDfCuRECprQWH9COdFDqlAajWHhP5LfIHlB6WWCQK2mVplvfmEg\nDfcAVeBNRWgThZPgwgplyhHP5Lw7jMNhAz+Jpn9d5txsO+WqCcp1MpBmssDNDME4\n25IwJ/2G4JBo2UKOBMBiWKg+r2HbNf85TYP+9jIUaC9WNvS0mHKOXJOrnln1DVOO\nHVXCbXg+6jdBf6zmMDg7HMXkhjlQIgdS8sBozeujCQKBgQDhkwK7HzHYblUSjBxd\nZX8h06CL6XhNRlQ4RgL9YLBHWv4bFsnk59rOPKkpPheyWyEdCxbs0V1L0avyaD1d\nDyX+DDjL4CH+y/C6vG8itAx1trUlZ0E+GY5cF7P7utHfVWWGV9R0qOCosRCWG1QM\nGtYexDbqwtEG61HBE5LlhLX5xQKBgQDQRxY0e0VJfa2JtI/eK+TBNnplSWZ9uxT6\nKFvZpxw6UPPCLOlaNQNbzHXF0T9vMBhh+arerswHoBgzQsvuz4QUGqQ3G02ZW0W4\navCV5p/hIUcwZI49DghvgBH++vnF12/BlFOaQU0pDj/pih9xv7TE0amTEh/Wexgz\nxG3GwYhwJwKBgQC49LmAhItyUsUeeBOp4Nbk/YjeL4ick9Xqbj11VBo1574CqCTS\ns+kMwWBSmL8FVwNHtRgPBXvh9wFtuVrXOtyD+bF4OUamjMHN20OkyMyOmEjfalJs\ngLfheu3wsbXz0Sl1hf6FyRKsPsLC0ZWQd1Cp2WjOBP8vFTPrhAkmeDJdoQKBgHK1\nE/enhItrGi5jMXEM/5mh5VrvR/ErHeyAWcXPkW5Us0tX7NTvqX/fZWWjTqpv9J3R\nIVgvMNNqSqnAugw2YemompR3Bw/VAtsEmqgUMi2NZGW0m9noZqDyCfdCRlm9wyD8\nDedA27wmyvBWT+cXy/kx95C2RK6dcMDiCAuU/w21AoGAIom9hMjl7Y77rdHEvKVT\nD0WVA3yc3VGdVBXLgNHaCa5m7F0/yUuSIxHQhdpuq5d/Y+nwz8JWeOCj4ce9JLHc\nQ8rGgZTv3r9D9d0LU6zwawwOREdTSJPbrIrWBJW+5WpSL+AEVRv3yNvVbj1K7421\n6ttXqnNu3EHGUKFC3pDoTGc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nft-marketplace@fiery-rarity-419316.iam.gserviceaccount.com",
+  "client_id": "101452221357903422389",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nft-marketplace%40fiery-rarity-419316.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
