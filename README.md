@@ -41,7 +41,7 @@ npx hardhat run scripts/deploy.js --network chainstack
 1. Create a Google Cloud Storage Bucket: Follow Google Cloud's documentation to create a new bucket.
 2. Configure Backend:
 - Navigate to the backend directory.
- Replace the privateKey and bucketName in the .env file with your Google Cloud service account key and bucket name.
+- Replace the privateKey and bucketName in the .env file with your Google Cloud service account key and bucket name.
 
 ### Run The Application
 ```bash
