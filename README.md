@@ -1,12 +1,6 @@
 # NFT MARKETPLACE DAPP
 This NFT Marketplace is a robust platform for buying, selling, and trading digital assets using blockchain technology, designed as the final project for CPSC 559 Advanced Blockchain. Featuring a user-friendly web interface, it leverages Ethereum-compatible networks and Google Cloud Storage for efficient and secure transactions.
 
-
-### Improvements and Changes
-Google Cloud Storage Integration:
-- Previous System: Initially, NFT images were stored using IPFS, which, while decentralized, could face issues with image retrieval speeds and availability.
-- Current System: Switched to Google Cloud Storage (GCS) for hosting NFT images. This change provides faster load times and more reliable access to the images, enhancing the user experience.
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
